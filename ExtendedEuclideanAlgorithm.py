@@ -1,5 +1,8 @@
 
-# Application of Extended Euclidean Algorithm to find Multiplicative Inverse Modulo
+# Application of Extended Euclidean Algorithm to find Multiplicative Inverse Modulo N
+
+# @author: ABHISHEK
+# @github: https://github.com/abhishek-bits
 
 # find an 'x' such that:
 # a * x = 1 (MOD n) => x = inverse(a) (MOD n)
